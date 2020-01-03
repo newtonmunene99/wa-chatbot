@@ -1,0 +1,27 @@
+{
+  "defaultSeverity": "warning",
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "rules": {
+    "trailing-comma": [false],
+    "no-bitwise": false,
+    "jsdoc-format": true,
+    "deprecation": true,
+    "interface-name": true,
+    "no-duplicate-imports": true,
+    "no-redundant-jsdoc": true,
+    "no-use-before-declare": true,
+    "variable-name": false,
+    "object-literal-sort-keys": false,
+    "member-ordering": true,
+    "await-promise": true,
+    "curly": true,
+    "no-async-without-await": true,
+    "no-duplicate-variable": true,
+    "no-invalid-template-strings": true,
+    "no-misused-new": true,
+    "no-invalid-this": true,
+    "prefer-const": true
+  },
+  "rulesDirectory": []
+}
