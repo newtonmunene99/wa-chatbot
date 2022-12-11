@@ -33,7 +33,7 @@
     "cors": "^2.8.5",
     "dialogflow": "^1.2.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twilio": "^3.51.0"
   }
 }
